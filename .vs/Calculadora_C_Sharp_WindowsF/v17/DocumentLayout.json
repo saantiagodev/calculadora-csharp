@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\calculadoraCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04983020-94D6-44DA-8ECB-32B82363F1C1}|Calculadora_C_Sharp_WindowsF\\Calculadora_C_Sharp_WindowsF.csproj|c:\\users\\sarah.santiago\\onedrive - senac - sp\\transforme-se\\calculadoracsharp\\calculadora_c_sharp_windowsf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{04983020-94D6-44DA-8ECB-32B82363F1C1}|Calculadora_C_Sharp_WindowsF\\Calculadora_C_Sharp_WindowsF.csproj|solutionrelative:calculadora_c_sharp_windowsf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04983020-94D6-44DA-8ECB-32B82363F1C1}|Calculadora_C_Sharp_WindowsF\\Calculadora_C_Sharp_WindowsF.csproj|c:\\users\\sarah.santiago\\onedrive - senac - sp\\transforme-se\\calculadoracsharp\\calculadora_c_sharp_windowsf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04983020-94D6-44DA-8ECB-32B82363F1C1}|Calculadora_C_Sharp_WindowsF\\Calculadora_C_Sharp_WindowsF.csproj|solutionrelative:calculadora_c_sharp_windowsf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04983020-94D6-44DA-8ECB-32B82363F1C1}|Calculadora_C_Sharp_WindowsF\\Calculadora_C_Sharp_WindowsF.csproj|c:\\users\\sarah.santiago\\onedrive - senac - sp\\transforme-se\\calculadoracsharp\\calculadora_c_sharp_windowsf\\buttonbordaarredondada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04983020-94D6-44DA-8ECB-32B82363F1C1}|Calculadora_C_Sharp_WindowsF\\Calculadora_C_Sharp_WindowsF.csproj|solutionrelative:calculadora_c_sharp_windowsf\\buttonbordaarredondada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04983020-94D6-44DA-8ECB-32B82363F1C1}|Calculadora_C_Sharp_WindowsF\\Calculadora_C_Sharp_WindowsF.csproj|c:\\users\\sarah.santiago\\onedrive - senac - sp\\transforme-se\\calculadoracsharp\\calculadora_c_sharp_windowsf\\buttonformaredonda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04983020-94D6-44DA-8ECB-32B82363F1C1}|Calculadora_C_Sharp_WindowsF\\Calculadora_C_Sharp_WindowsF.csproj|solutionrelative:calculadora_c_sharp_windowsf\\buttonformaredonda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04983020-94D6-44DA-8ECB-32B82363F1C1}|Calculadora_C_Sharp_WindowsF\\Calculadora_C_Sharp_WindowsF.csproj|c:\\users\\sarah.santiago\\onedrive - senac - sp\\transforme-se\\calculadoracsharp\\calculadora_c_sharp_windowsf\\calculadora_c_sharp_windowsf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04983020-94D6-44DA-8ECB-32B82363F1C1}|Calculadora_C_Sharp_WindowsF\\Calculadora_C_Sharp_WindowsF.csproj|solutionrelative:calculadora_c_sharp_windowsf\\calculadora_c_sharp_windowsf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 316,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\calculadoraCSharp\\Calculadora_C_Sharp_WindowsF\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculadora_C_Sharp_WindowsF\\Form1.cs",
+              "ToolTip": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\calculadoraCSharp\\Calculadora_C_Sharp_WindowsF\\Form1.cs",
+              "RelativeToolTip": "Calculadora_C_Sharp_WindowsF\\Form1.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAwEYAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:12:44.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ButtonFormaRedonda.cs",
+              "DocumentMoniker": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\calculadoraCSharp\\Calculadora_C_Sharp_WindowsF\\ButtonFormaRedonda.cs",
+              "RelativeDocumentMoniker": "Calculadora_C_Sharp_WindowsF\\ButtonFormaRedonda.cs",
+              "ToolTip": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\calculadoraCSharp\\Calculadora_C_Sharp_WindowsF\\ButtonFormaRedonda.cs",
+              "RelativeToolTip": "Calculadora_C_Sharp_WindowsF\\ButtonFormaRedonda.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:12:41.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ButtonBordaArredondada.cs",
+              "DocumentMoniker": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\calculadoraCSharp\\Calculadora_C_Sharp_WindowsF\\ButtonBordaArredondada.cs",
+              "RelativeDocumentMoniker": "Calculadora_C_Sharp_WindowsF\\ButtonBordaArredondada.cs",
+              "ToolTip": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\calculadoraCSharp\\Calculadora_C_Sharp_WindowsF\\ButtonBordaArredondada.cs",
+              "RelativeToolTip": "Calculadora_C_Sharp_WindowsF\\ButtonBordaArredondada.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:12:39.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calculadora_C_Sharp_WindowsF.csproj",
+              "DocumentMoniker": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\calculadoraCSharp\\Calculadora_C_Sharp_WindowsF\\Calculadora_C_Sharp_WindowsF.csproj",
+              "RelativeDocumentMoniker": "Calculadora_C_Sharp_WindowsF\\Calculadora_C_Sharp_WindowsF.csproj",
+              "ToolTip": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\calculadoraCSharp\\Calculadora_C_Sharp_WindowsF\\Calculadora_C_Sharp_WindowsF.csproj",
+              "RelativeToolTip": "Calculadora_C_Sharp_WindowsF\\Calculadora_C_Sharp_WindowsF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T17:12:34.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\calculadoraCSharp\\Calculadora_C_Sharp_WindowsF\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculadora_C_Sharp_WindowsF\\Form1.cs",
+              "ToolTip": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\calculadoraCSharp\\Calculadora_C_Sharp_WindowsF\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Calculadora_C_Sharp_WindowsF\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:14:37.512Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
